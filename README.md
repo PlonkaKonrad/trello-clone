@@ -26,4 +26,4 @@ NEXT_PUBLIC_IMAGES_BUCKET_ID= //your appwrite images bucket  ID
 
 - yarn 
 
--yarn dev
+- yarn dev
