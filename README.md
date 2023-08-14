@@ -1,4 +1,4 @@
-This is next.js 13 trello clone for learningn purposes
+This is next.js 13 trello clone for learning purposes
 
 #next13
 #typescript
